@@ -7,7 +7,7 @@
 4. Add an introduction page (HTML and CSS) to the project.
 5. Stage, commit, and push the changes to your branch.
 6. Create a pull request for your branch on GitHub.
-
+ 
 #### Solution:
 ```bash
 # Terminal commands for students to execute

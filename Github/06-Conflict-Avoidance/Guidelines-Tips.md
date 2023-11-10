@@ -3,7 +3,7 @@ While conflicts in collaborative coding environments are a normal part of develo
 1. **Communication:**
    - **Frequent Communication:** Encourage team members to communicate regularly about their work. This helps everyone stay informed about ongoing changes.
    - **Standup Meetings:** Daily standup meetings or regular check-ins can be helpful for team members to share their progress and plans.
-
+ 
 2. **Use Branches Effectively:**
    - **Feature Branches:** Encourage the use of feature branches for development. Each developer can work on a specific feature or bug fix in their own branch, reducing the chances of conflicts.
    - **Short-Lived Branches:** Keep branches short-lived to minimize the number of changes occurring in parallel.
